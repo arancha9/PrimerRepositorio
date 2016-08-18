@@ -1,4 +1,4 @@
-Esta sería la documentación de nuetsro código
+Esta sería la documentación de nuestro código
 Título
 ============================
 
